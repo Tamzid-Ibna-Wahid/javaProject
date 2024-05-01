@@ -7,5 +7,9 @@ public class Calculator {
     public double sum(double firstnumber, double secondnumber) {
         return firstnumber + secondnumber;
     }
+
+    public double multiply(double first, double second) {
+        return first * second;
+    }
     
 }
